@@ -1,6 +1,7 @@
 {
   "extends": "@rocketseat/eslint-config/react",
   "rules": {
-    "quotes": ["error", "single"]
+    "quotes": ["error", "single"],
+    "no-unused-vars": "off"
   }
 }
